@@ -24,6 +24,7 @@ For adding the file in staging area and commit in the locat repository(Master Br
 	$ git commit -m "commit the README file in the master branch of the local repository"
 Command:
 	$ git diff - View the changes that were made in the file.
+Changed the content of the file and the name of the file. But still no difference is showing on the git diff command.
 	
 
 
