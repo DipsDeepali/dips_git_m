@@ -20,7 +20,7 @@ For adding the file in staging area and commit in the locat repository(Master Br
 	$ git add
 	$ git commit -m "commit the README file in the master branch of the local repository"
 	error: Author identity unknown, unable to auto-detect email address
-	$ git config user.email "nikhil.tandon2601@outlook.com"
+	$ git config user.email "nik@outlook.com"
 	$ git commit -m "commit the README file in the master branch of the local repository"
 Command:
 	$ git diff - View the changes that were made in the file.
